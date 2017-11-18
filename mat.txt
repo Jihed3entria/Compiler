@@ -1,0 +1,5 @@
+0 a b c d 
+E P 0 P 0 
+P 0 P F N
+N 0 0 E 0 
+F N 0 0 0 
